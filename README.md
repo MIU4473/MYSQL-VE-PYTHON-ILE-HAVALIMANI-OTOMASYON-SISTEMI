@@ -1,0 +1,1 @@
+BHY SON dosyasını derleyicinizde açıp, MYSQLWORKBENCH DATABASE dosyasındaki sql dosyalarını import ettiğinizde proje çalışır hale gelecektir. Eğer import edilemezse alternatif olarak SQL kodları da txt içinde yer almaktadır.
